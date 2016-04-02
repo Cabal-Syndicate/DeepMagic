@@ -1,0 +1,1 @@
+module deepmagic.orm.models.prototype.migration;
