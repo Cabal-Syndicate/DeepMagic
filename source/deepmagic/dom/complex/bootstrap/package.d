@@ -1,6 +1,7 @@
 module deepmagic.dom.complex.bootstrap;
 
 package import deepmagic.dom.complex.bootstrap.column;
+package import deepmagic.dom.complex.bootstrap.row;
 
 /+
 .active
