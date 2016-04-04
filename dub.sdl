@@ -5,6 +5,7 @@ authors "Master Foo"
 license "CC0 1.0 Universal"
 
 dependency "hibernated" version="~>0.2.26"
+dependency "vibe-d" version="~>0.7.23"
 
 targetPath "bin"
 
