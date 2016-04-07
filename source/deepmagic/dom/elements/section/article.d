@@ -1,4 +1,4 @@
-module deepmagic.dom.elements.section;
+module deepmagic.dom.elements.section.article;
 
 import deepmagic.dom;
 
@@ -20,10 +20,6 @@ class BodyElement : Html5Element!("body"){
 	mixin(AttributeTemplate!(typeof(this), "OnPopState", "onpopstate"));
 	mixin(AttributeTemplate!(typeof(this), "OnStorage", "onstorage"));
 	mixin(AttributeTemplate!(typeof(this), "OnUnload", "onunload"));
-}
-
-class SectionElement : Html5Element!("section"){
-	mixin(ElementConstructorTemplate!());
 }
 
 class NavElement : Html5Element!("nav"){
