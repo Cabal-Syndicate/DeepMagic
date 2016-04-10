@@ -1,13 +1,13 @@
 module deepmagic.dom.elements.embedded;
 
-package import deepmagic.dom.elements.embedded.imgelement;
-package import deepmagic.dom.elements.embedded.iframeelement;
-package import deepmagic.dom.elements.embedded.embedelement;
-package import deepmagic.dom.elements.embedded.objectelement;
-package import deepmagic.dom.elements.embedded.paramelement;
-package import deepmagic.dom.elements.embedded.videoelement;
-package import deepmagic.dom.elements.embedded.audioelement;
-package import deepmagic.dom.elements.embedded.sourceelement;
-package import deepmagic.dom.elements.embedded.trackelement;
-package import deepmagic.dom.elements.embedded.mapelement;
-package import deepmagic.dom.elements.embedded.areaelement;
+package import deepmagic.dom.elements.embedded.img_element;
+package import deepmagic.dom.elements.embedded.iframe_element;
+package import deepmagic.dom.elements.embedded.embed_element;
+package import deepmagic.dom.elements.embedded.object_element;
+package import deepmagic.dom.elements.embedded.param_element;
+package import deepmagic.dom.elements.embedded.video_element;
+package import deepmagic.dom.elements.embedded.audio_element;
+package import deepmagic.dom.elements.embedded.source_element;
+package import deepmagic.dom.elements.embedded.track_element;
+package import deepmagic.dom.elements.embedded.map_element;
+package import deepmagic.dom.elements.embedded.area_element;
