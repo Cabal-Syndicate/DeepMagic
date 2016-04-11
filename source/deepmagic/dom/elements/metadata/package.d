@@ -1,8 +1,8 @@
 module deepmagic.dom.elements.metadata;
 
-package import deepmagic.dom.elements.metadata.baseelement;
-package import deepmagic.dom.elements.metadata.headelement;
-package import deepmagic.dom.elements.metadata.linkelement;
-package import deepmagic.dom.elements.metadata.metaelement;
-package import deepmagic.dom.elements.metadata.titleelement;
-package import deepmagic.dom.elements.metadata.styleelement;
+package import deepmagic.dom.elements.metadata.base_element;
+package import deepmagic.dom.elements.metadata.head_element;
+package import deepmagic.dom.elements.metadata.link_element;
+package import deepmagic.dom.elements.metadata.meta_element;
+package import deepmagic.dom.elements.metadata.title_element;
+package import deepmagic.dom.elements.metadata.style_element;

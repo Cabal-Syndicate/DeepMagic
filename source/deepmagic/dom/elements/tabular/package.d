@@ -1,12 +1,12 @@
 module deepmagic.dom.elements.tabular;
 
-package import deepmagic.dom.elements.tabular.tableelement;
-package import deepmagic.dom.elements.tabular.captionelement;
-package import deepmagic.dom.elements.tabular.colgroupelement;
-package import deepmagic.dom.elements.tabular.colelement;
-package import deepmagic.dom.elements.tabular.tbodyelement;
-package import deepmagic.dom.elements.tabular.theadelement;
-package import deepmagic.dom.elements.tabular.tfootelement;
-package import deepmagic.dom.elements.tabular.trelement;
-package import deepmagic.dom.elements.tabular.tdelement;
-package import deepmagic.dom.elements.tabular.thelement;
+package import deepmagic.dom.elements.tabular.table_element;
+package import deepmagic.dom.elements.tabular.caption_element;
+package import deepmagic.dom.elements.tabular.colgroup_element;
+package import deepmagic.dom.elements.tabular.col_element;
+package import deepmagic.dom.elements.tabular.tbody_element;
+package import deepmagic.dom.elements.tabular.thead_element;
+package import deepmagic.dom.elements.tabular.tfoot_element;
+package import deepmagic.dom.elements.tabular.tr_element;
+package import deepmagic.dom.elements.tabular.td_element;
+package import deepmagic.dom.elements.tabular.th_element;
